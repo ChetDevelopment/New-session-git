@@ -80,3 +80,7 @@ function helloWorld() {
 
 ## Badge
 [![app](https://img.shields.io/badge/PNC-Vichet-Yello)](https://chatgpt.com/c/688c2b5b-2348-800d-a284-9b69300989b6)
+
+## Contibutor
+[ChetDevelopment](https://github.com/ChetDevelopment)
+
