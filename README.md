@@ -58,3 +58,25 @@ normal text
 
 ## link
 [Visit my website](https://www.yourwebsite.com)
+
+
+## Single line code
+```python
+print("Hello, world!")
+```
+```html
+<div class="container">
+  <h1>Hello, world!</h1>
+</div>
+```
+
+```javascript
+function helloWorld() {
+  console.log("Hello, world!");
+}
+```
+### Button
+<a href="https://chatgpt.com/c/688c2b5b-2348-800d-a284-9b69300989b6" target="_blank" class="btn btn-primary">Chat GPT</a>
+
+## Badge
+[![app](https://img.shields.io/badge/PNC-Vichet-Yello)](https://chatgpt.com/c/688c2b5b-2348-800d-a284-9b69300989b6)
