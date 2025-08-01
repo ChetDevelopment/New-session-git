@@ -21,3 +21,12 @@ normal text
 - [x] Task 1
 - [x] Task 2
 - [ ] Task 3 
+
+## Table
+| Name | Age | City |
+| ---- | --- | ---- |
+| John | 25  | Paris|
+| Alice| 30  |London|
+
+## Block Quote
+
